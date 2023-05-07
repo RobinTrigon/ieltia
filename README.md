@@ -30,6 +30,7 @@
 *  X-rated - it is not suitable for children.
 *  Yellow-bellied - person is a coward.
 *  Zip it - to be quiet.
+
                 LIST OF VOCABULARY
 
 ☻ Vocabulary for IELTS Topic 1 : People 
