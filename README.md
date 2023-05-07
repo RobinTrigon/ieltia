@@ -1,7 +1,7 @@
 # ielitia
 <p align="center"><img alt="https://raw.githubusercontent.com/RobinTrigon/ielitia/main/ieltiaCover.pdf.png" width="600px" src="https://raw.githubusercontent.com/RobinTrigon/ielitia/main/ieltiaCover.pdf.png" /></p>
 
-
+```yaml
         LIST OF IDIOMS 
 
 *  A red letter day- a crucial day
@@ -611,4 +611,4 @@
 ⚬ False এর তথ্য সহজেই পাওয়া যাবে তবে মূল বিষয় ভিন্ন থাকবে।
 ⚬ Not given এর তথ্য কিছু অংশ থাকবে আর কিছু অংশ থাকবে না।
 
-
+```
